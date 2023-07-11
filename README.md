@@ -4,7 +4,7 @@
 My name is Dylan Boyling and I am a student, barista, and aspiring software developer!
 
 
-- 🎓 I’m currently studying Computer Engineering Technology - Computer Science at Algonquin College
+- 🎓 I’m currently a second year student in Computer Engineering Technology - Computing Science at Algonquin College
 - 🌱 I’m currently learning Flutter and Dart
 
 - 📫 How to reach me: dylanboyling@gmail.com
