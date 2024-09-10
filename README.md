@@ -7,9 +7,6 @@ Hi there! I'm Dylan, a software developer with a passion for software solutions 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+- Languages: JavaScript, Python, Java, SQL, HTML, CSS
+- Frameworks and Libraries: Node.js, Express.js, Django, Spring Boot, Angular, Selenium, JQuery, Hibernate
+- Tools: Git, Linux, Docker, AWS CodePipeline, AWS ECS, Maven, Jira
