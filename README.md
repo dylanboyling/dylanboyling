@@ -4,7 +4,6 @@ Hi there! I'm Dylan, a software developer with a passion for software solutions 
 
 - Education: Bachelor of Software Engineering from Western Governors University; previously studied Computer Engineering Technology - Computing Science at Algonquin College
 - Contact: dylanboyling@gmail.com
-- Pronouns: he/him
 
 ---
 
